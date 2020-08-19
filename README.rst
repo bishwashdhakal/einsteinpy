@@ -63,7 +63,7 @@ Manipulations of various tensors like Metric, Riemann, Ricci, Ricci Scalar, Weyl
 Schouten, Stress-Energy-Momentum, Einstein and Christoffel Symbols is also possible
 using the library. EinsteinPy also features Hypersurface Embedding of Schwarzschild
 space-time, which will soon lead to modelling of Gravitational Lensing!
-It is released under the MIT license.
+It is released under the MIT license!
 
 Documentation
 =============
